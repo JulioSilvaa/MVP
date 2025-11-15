@@ -16,6 +16,7 @@
     "prisma:migrate": "npx prisma migrate dev"
   },
   "dependencies": {
+    "@radix-ui/react-avatar": "^1.1.11",
     "@radix-ui/react-slot": "^1.2.4",
     "card": "^2.5.4",
     "class-variance-authority": "^0.7.1",
